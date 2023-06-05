@@ -1,6 +1,6 @@
 # Ingredients
 Avoc
-Salt
+Pepper
 Olive Oil
 Lime
 # Instructions
